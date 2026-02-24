@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: wallet-api
+  profiles:
+    active: dev
+  main:
+    banner-mode: console
