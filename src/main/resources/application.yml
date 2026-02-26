@@ -5,3 +5,5 @@ spring:
     active: dev
   main:
     banner-mode: console
+  jpa:
+    open-in-view: false #
