@@ -1,7 +1,7 @@
-package com.federicofrankenberger.wallet.infrastructure.persistence.mapper;
+package com.federicofrankenberger.wallet.infrastructure.adapter.output.persistence.mapper;
 
 import com.federicofrankenberger.wallet.core.domain.model.User;
-import com.federicofrankenberger.wallet.infrastructure.persistence.entity.UserEntity;
+import com.federicofrankenberger.wallet.infrastructure.adapter.output.persistence.entity.UserEntity;
 import org.mapstruct.Mapper;
 
 @Mapper(componentModel = "spring")

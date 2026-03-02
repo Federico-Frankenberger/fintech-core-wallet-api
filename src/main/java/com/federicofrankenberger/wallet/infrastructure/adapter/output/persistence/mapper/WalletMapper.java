@@ -1,7 +1,7 @@
-package com.federicofrankenberger.wallet.infrastructure.persistence.mapper;
+package com.federicofrankenberger.wallet.infrastructure.adapter.output.persistence.mapper;
 
 import com.federicofrankenberger.wallet.core.domain.model.Wallet;
-import com.federicofrankenberger.wallet.infrastructure.persistence.entity.WalletEntity;
+import com.federicofrankenberger.wallet.infrastructure.adapter.output.persistence.entity.WalletEntity;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 

@@ -1,4 +1,4 @@
-package com.federicofrankenberger.wallet.infrastructure.persistence.entity;
+package com.federicofrankenberger.wallet.infrastructure.adapter.output.persistence.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

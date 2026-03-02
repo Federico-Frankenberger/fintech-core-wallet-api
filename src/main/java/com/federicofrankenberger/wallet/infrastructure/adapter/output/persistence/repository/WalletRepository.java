@@ -1,6 +1,6 @@
-package com.federicofrankenberger.wallet.infrastructure.persistence.repository;
+package com.federicofrankenberger.wallet.infrastructure.adapter.output.persistence.repository;
 
-import com.federicofrankenberger.wallet.infrastructure.persistence.entity.WalletEntity;
+import com.federicofrankenberger.wallet.infrastructure.adapter.output.persistence.entity.WalletEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
